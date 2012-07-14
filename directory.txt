@@ -1,6 +1,6 @@
 branches
 	ipfilter：Meuh6879版，ipfilter.dat格式，分级
-	ipfilter-offline：迅雷离线下载服务器IP，ipfilter.dat格式，不分级
+	ipfilter-xl：迅雷离线下载服务器IP，ipfilter.dat格式，不分级
 tags
 trunk
-	ipfilter-ex：eMuleFans修改版，ipfilter.dat格式，分级。与其他文件
+	ipfilter-ef：eMuleFans修改版，ipfilter.dat格式，分级。与其他文件
